@@ -1,0 +1,115 @@
+* {
+    font-family: 'SF Pro Display', sans-serif;
+    margin: 0;
+    text-decoration: none;
+    text-decoration-color: none;
+}
+
+.container {
+    margin-left: 27em;
+    margin-top: 8em;
+    display: flex;
+}
+
+.fieds {
+    margin-top: 0.5em;
+    width: 24em;
+    height: 2.7em;
+    background-color: #FAFAFA;
+    border-width: 0;
+    border-radius: 5px;
+    position: relative;
+
+}
+.form-com{
+    margin-top: 1.7em;
+    margin-bottom: 1.7em;
+}
+
+.fieds:hover {
+    border-color: #D2EEF3;
+
+}
+
+#check-icon {
+    margin-left: 100px;
+    position: absolute;
+    height: 0.8em;
+    width: 0.8em;
+    position: absolute;
+    margin-top: 0.9em;
+    margin-left: 0.8em;
+}
+
+.fied-text {
+    margin-top: 1.5em;
+    margin-left: 4em;
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+
+}
+.fied-2-text {
+    margin-top: 1.5em;
+    margin-left: 1.5em;
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+
+}
+
+.button1 {
+    width: 28.8em;
+    height: 2.8em;
+    background-color: #fff;
+    color: #53BED2;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid #53BED2;
+    border-radius: 5px;
+    margin-top: 1em;
+}
+
+.button2 {
+    width: 28.8em;
+    height: 2.8em;
+    background-color:#53BED2;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border: 1px solid #53BED2;
+    border-radius: 5px;
+    margin-top: 1em;
+}
+
+.second-wrapper {
+    height: 36em;
+    width: 32em;
+    background-color: #53BED214;
+    margin-left: 13em;
+    margin-top: 2.5em;
+}
+
+
+.second-wrapper-man{
+    margin-left: 1.5em;
+}
+.fieds-2 {
+    margin-top: 1em;
+    width: 24em;
+    height: 2.7em;
+    background-color: #fff;
+    /* border-width: 0; */
+    border-radius: 5px;
+    position: relative;
+
+}
+
+.fied-box-1{
+    margin-top: 1em;
+}
+
